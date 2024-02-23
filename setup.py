@@ -30,7 +30,7 @@ setuptools.setup(
         'xontrib-jump-to-dir', # Jump to used before directory by part of the path. Lightweight zero-dependency implementation of autojump or zoxide projects functionality.
         'xontrib-clp', # Copy output to clipboard. URL: https://github.com/anki-code/xontrib-clp
         'xontrib-fish-completer',
-        'xontrib-abbrevs,
+        'xontrib-abbrevs',
         #
         # Get more xontribs:
         #  * https://github.com/topics/xontrib
