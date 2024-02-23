@@ -8,11 +8,11 @@ except (IOError, OSError):
     long_description = ''
 
 setuptools.setup(
-    name='xontrib-rc-awesome',
+    name='xontrib-rc-cshen',
     version='0.14.0.1',
     license='MIT',
     author='Chunhua S',
-    author_email='chhshen@gmail.com',
+    author_email='chhshen[x]gmail.com',
     description="Awesome snippets of code for xonshrc in xonsh shell.",
     long_description=long_description,
     long_description_content_type='text/markdown',
