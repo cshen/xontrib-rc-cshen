@@ -17,8 +17,8 @@ If you like the idea click ⭐ on the repo and <a href="https://twitter.com/inte
 5. [Add xontribs you need to setup.py](https://github.com/anki-code/xontrib-rc-awesome/blob/495dce4c8e7e8c9882ea002db60935d03f3fb861/setup.py#L20-L38) (the xontribs will be installed automatically during `pip install`)
 6. Now you can just run anywhere:
     ```xonsh
-    pip install -U git+https://github.com/yourname/xontrib-rc-yourname
-    echo 'xontrib load rc_yourname' >> ~/.xonshrc  # To avoid this create autoloadable xontrib using xontrib-template
+    pip install -U git+https://github.com/yourname/xontrib-rc-cshen
+    echo 'xontrib load rc_cshen' >> ~/.xonshrc  # To avoid this create autoloadable xontrib using xontrib-template
     xonsh
     ```
     Also you can avoid manual loading the xontrib in `~/.xonshrc` by creating autoloadable xontrib using [xontrib-template](https://github.com/xonsh/xontrib-template). Answer yes on the question about enabling autoloading.
